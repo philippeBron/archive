@@ -1,0 +1,12 @@
+sftp_host='host'
+sftp_user='user'
+sftp_pass='passwordBase64'
+sftp_key_file='path_to_private_key'
+local_dir='local'
+remote_bucket='remote'
+bucket_path='archive'
+
+remote_encrypt='secret'
+encrypt_path='archive/vault'
+encrypt_pass='ecnrypt_passBase64'
+encrypt_salt='salt_passphraseBase64'
